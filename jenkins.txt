@@ -1,2 +1,3 @@
 to create jenkins file in git bash for this azure clas
 to create fetch command for these code
+to create merge and fetch to create source code
