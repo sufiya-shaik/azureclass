@@ -1,1 +1,2 @@
 to create docker image to convert into docker containter
+to pull these code create this line 
